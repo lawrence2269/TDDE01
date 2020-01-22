@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575820803225.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1945044699",
+    "id" : "FE68732C",
+    "lastKnownWriteTime" : 1576591822,
+    "last_content_update" : 1576591822001,
+    "path" : "~/Documents/TDDE01/TDDE01_Lab/Lab-3/Assignment-3.R",
+    "project_path" : "Assignment-3.R",
+    "properties" : {
+        "cursorPosition" : "43,0",
+        "scrollLine" : "23",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
